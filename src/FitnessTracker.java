@@ -1,5 +1,5 @@
 /*
-Project : Fitness Tracker
+Project : Fitness Tracker app
 Group :
 Abdullah Irfan    SE 231061
 Adil Sajjad       SE 231076
